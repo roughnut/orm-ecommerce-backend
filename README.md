@@ -8,7 +8,7 @@ Challenge is to build a ORM e-commerce backend using Sequelize, Node, Express an
 
 ## Video Walkthrough
 
-![video walkthrough](https://drive.google.com/file/d/1MOtLwkQ5RSNnSA-iMvP-0XqNm-5hEae5/view?usp=sharing "link to walkthrough")
+[video walkthrough](https://drive.google.com/file/d/1MOtLwkQ5RSNnSA-iMvP-0XqNm-5hEae5/view?usp=sharing "link to walkthrough")
 
 ## User Story
 

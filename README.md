@@ -1,18 +1,14 @@
-# Bootcamp Challenge 00 - 
+# Bootcamp Challenge 13 - ECOMMERCE BACKEND
 
 ## Description
 
-Challenge is to build a RESTFUL ORM e-commerce backend
+Challenge is to build a ORM e-commerce backend using Sequelize, Node, Express and Postgres. Since it is not deployed, the functionality is demonstrated via a video walkthrough (see below).
 
 [User Story](#user-story) and [Acceptance Criteria](#acceptance-criteria) are below.
 
-## Screenshot
+## Video Walkthrough
 
-![screenshot](path_to_screenshot "link to screenshot")
-
-## Usage
-
-[Github Pages URL](github_pages_url "link to deployed site")
+![video walkthrough](https://drive.google.com/file/d/1MOtLwkQ5RSNnSA-iMvP-0XqNm-5hEae5/view?usp=sharing "link to walkthrough")
 
 ## User Story
 
